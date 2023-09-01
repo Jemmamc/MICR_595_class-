@@ -1,0 +1,40 @@
+---
+title: "HMK_02"
+format: html
+editor: visual
+---
+
+# MICR_575 Home work
+
+### The main issues with the Reinhard and Rogoff affair was based on the analysis of their data which were tagged as being inaccurate and somewhat misleading, especially to those who are depending on these data to make policy changes. Additionally, relying and building upon their published results continues the inaccuracy in future economic analyses. An audit of their publication highlighted some of the inaccuracies and cautions that should be taken when using certain data analysis tools such as Microsoft Excel. Based on the critique their work, these mistakes could have been avoided by determining the limitations of the tools being used, ensuring reproducibiity of the results and determining what are the possible results or output based on including and excluding some data points.
+
+### Some of the key attributes of reproducible data analysis includes:
+
+1.  Accurately taking notes of the steps/following the protocol for lab work.
+
+2.  Accurately reporting the raw data and interpretations.
+
+3.  Making notes of all equipment and version of software being used.
+
+### 
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
